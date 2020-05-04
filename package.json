@@ -14,7 +14,7 @@
     "discord.js": "^11.5.1",
     "discord.js-commando": "^0.10.0",
     "dotenv": "^8.1.0",
-    "moment": "^2.24.0",
+    "moment": "^2.25.3",
     "pino-multi-stream": "^4.1.0",
     "pino-pretty": "^3.2.1"
   },
